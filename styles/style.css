@@ -1,0 +1,73 @@
+/* font styles */
+@import url('https://fonts.googleapis.com/css2?family=Azeret+Mono:ital,wght@0,100..900;1,100..900&display=swap');
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: "Azeret Mono", monospace;
+}
+
+/* banner section start here */
+.banner-section-container {
+width: 1440px;
+height: 652px;
+margin: 0 auto;
+background-image: url(../assets/Hero-bg.png);
+
+
+}
+.hreo-srction-container {
+ width: 998px;
+height: 582px;
+margin: 0 auto;
+margin-top: 26px;
+margin-bottom: 44px;
+
+}
+.hero-image-contan {
+width: 240.28px;
+height: 240px;
+margin: 0 auto;
+
+}
+.hero-titel-conten {
+color: rgb(13, 19, 33);
+font-size: 25px;
+font-weight: 600;
+
+text-align: center;
+gap: 24px;
+
+}
+
+.hero-titel-conten .hero-btn {
+width: 208px;
+height: 66px;
+border-radius: 8px;
+color: rgb(255, 255, 255);
+
+background: rgb(13, 19, 33);
+margin-top: 30px;
+}
+
+.hero-titel-conten .banner-contan {
+ color: rgb(13, 19, 33);
+font-size: 16px;
+margin-top: 30px;
+font-weight: 400
+
+}
+.hero-titel-conten .hero-title {
+color: rgb(13, 19, 33);
+font-size: 48px;
+font-weight: 800;
+margin-top: 30px;
+}
+
+/* second sections styles hear */
+
+
