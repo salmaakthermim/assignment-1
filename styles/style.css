@@ -271,6 +271,48 @@ font-size: 20px;
 font-weight: 500;
 }
 
+/* third sections styles here */
+.inspiration-contan {
+ width: 1140px;
+height: 775px;
+margin: 0 auto;
+margin-top: 88px;
+}
+.inspir-conteiner {
+width: 852px;
+height: 113px;
+margin: 0 auto;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+}
+.inspir-conteiner h1 {
+color: rgb(13, 19, 33);
+font-size: 32px;
+font-weight: 800;
+line-height: 37px
+}
+.inspir-conteiner p {
+width: 852px;
+height: 52px;
+color: rgb(13, 19, 33);
+font-size: 16px;
+font-weight: 400;
+margin-top: 24px;
+}
+.inspiration-video {
+ width: 1140px;
+height: 614px;
+margin-top: 48px;
+}
+.video-contan {
+    width: 1076px;
+height: 550px;
+margin: 0 auto;
+margin-top: 20px;
+}
+
 
 
 
